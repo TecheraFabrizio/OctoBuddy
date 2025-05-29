@@ -1,0 +1,15 @@
+Inside separated by commas you can add fieldset ids there!  
+  
+  "product-comparison": {
+    "correlateditems": [""],
+    "correlateditems_details": [""],
+    "details": [""],
+    "itemssearcher": [""],
+    "matrixchilditems": [""],
+    "matrixchilditems_search": [""],
+    "order": [""],
+    "relateditems": [""],
+    "relateditems_details": [""],
+    "search": [""],
+    "typeahead": [""]
+  },

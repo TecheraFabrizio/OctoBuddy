@@ -1,0 +1,25 @@
+<restlet scriptid="customscript_octobuddy_restlet">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>OctoBuddy Restlet Script</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/OctoBuddy/BackendScripts/octoBuddyRestlet.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_octobuddy_restlet">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>T</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>OctoBuddy Restlet Deployment</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</restlet>

@@ -1,0 +1,43 @@
+{
+  "size-chart": {
+    "details": ["custitem_ns_sc_ext_sich_size_chart_id, custitem_ns_sc_ext_sich_size_chart"],
+    "matrixchilditems": ["custitem_ns_sc_ext_sich_size_chart_id, custitem_ns_sc_ext_sich_size_chart"]
+  },
+  "product-lead-time": {
+    "details": ["custitem_ns_sc_ext_plt_leadtimemessage"],
+    "matrixchilditems": ["custitem_ns_sc_ext_plt_leadtimemessage"]
+  },
+  "page-printer": {
+    "details": ["custitem_ns_sc_page_printer_behavior"]
+  },
+  "inventory-display": {
+    "details": ["isdropshipitem, isspecialorderitem, custitem_ns_sc_ext_id_stock_message, custitem_ns_sc_ext_id_bo_msg, custitem_ns_sc_ext_id_qty_avl_msg, custitem_ns_sc_ext_id_low_stock_msg, custitem_ns_sc_ext_id_low_stock_thresh, custitem_ns_sc_ext_id_hide_qty_avl, custitem_ns_sc_ext_id_hide_low_qty_msg, custitem_ns_sc_ext_id_hide_invt_msg"],
+    "matrixchilditems": ["isdropshipitem, isspecialorderitem, custitem_ns_sc_ext_id_stock_message, custitem_ns_sc_ext_id_bo_msg, custitem_ns_sc_ext_id_qty_avl_msg, custitem_ns_sc_ext_id_low_stock_msg, custitem_ns_sc_ext_id_low_stock_thresh, custitem_ns_sc_ext_id_hide_qty_avl, custitem_ns_sc_ext_id_hide_low_qty_msg, custitem_ns_sc_ext_id_hide_invt_msg"]
+  },
+  "grid-order": {
+    "details": ["custitem_ns_sc_grid_order_behavior, custitem_ns_sc_grid_order_show_stock, custitem_ns_sc_grid_order_stock_notif"]
+  },
+  "gift-wrap": {
+    "details": ["custitem_ns_sc_ext_gw_options, custitem_ns_sc_ext_gw_iswrappable"]
+  },
+  "gift-certificate-balance": {
+    "details": ["custitem_ns_sc_ext_options_button_lbl, custitem_ns_sc_ext_gift_cert_group_id"],
+    "search": ["custitem_ns_sc_ext_options_button_lbl, custitem_ns_sc_ext_gift_cert_group_id"]
+  },
+  "featured-product": {
+    "details": ["itemimages_detail, itemoptions_detail, internalid, matrixchilditems_detail, onlinecustomerprice_detail, quantityavailable, displayname, itemid, storedetaileddescription, storedisplayname2, isinstock"]
+  },
+  "featured-category": {
+    "search": ["storedisplayname2, displayname, itemid, internalid, itemimages_detail, matrixchilditems_detail, pricelevel1_formatted, onlinecustomerprice_detail, urlcomponent"]
+  },
+  "custom-fields": {
+    "details": ["upccode, manufacturer, mpn, countryofmanufacture, weight, weightunit"],
+    "matrixchilditems": ["upccode, manufacturer, mpn, countryofmanufacture, weight, weightunit"]
+  },
+  "item-badges": {
+    "correlateditems": ["custitem_ns_ib_show_badges, custitem_ns_ib_badges"],
+    "details": ["custitem_ns_ib_show_badges, custitem_ns_ib_badges"],
+    "relateditems": ["custitem_ns_ib_show_badges, custitem_ns_ib_badges"],
+    "search": ["custitem_ns_ib_show_badges, custitem_ns_ib_badges"]
+  }
+}
